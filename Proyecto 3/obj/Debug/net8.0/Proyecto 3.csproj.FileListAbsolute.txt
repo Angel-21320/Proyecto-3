@@ -1,0 +1,14 @@
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto 3 Progra\Proyecto 3\bin\Debug\net8.0\Proyecto 3.exe
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto 3 Progra\Proyecto 3\bin\Debug\net8.0\Proyecto 3.deps.json
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto 3 Progra\Proyecto 3\bin\Debug\net8.0\Proyecto 3.runtimeconfig.json
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto 3 Progra\Proyecto 3\bin\Debug\net8.0\Proyecto 3.dll
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto 3 Progra\Proyecto 3\bin\Debug\net8.0\Proyecto 3.pdb
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto 3 Progra\Proyecto 3\obj\Debug\net8.0\Proyecto 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto 3 Progra\Proyecto 3\obj\Debug\net8.0\Proyecto 3.AssemblyInfoInputs.cache
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto 3 Progra\Proyecto 3\obj\Debug\net8.0\Proyecto 3.AssemblyInfo.cs
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto 3 Progra\Proyecto 3\obj\Debug\net8.0\Proyecto 3.csproj.CoreCompileInputs.cache
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto 3 Progra\Proyecto 3\obj\Debug\net8.0\Proyecto 3.dll
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto 3 Progra\Proyecto 3\obj\Debug\net8.0\refint\Proyecto 3.dll
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto 3 Progra\Proyecto 3\obj\Debug\net8.0\Proyecto 3.pdb
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto 3 Progra\Proyecto 3\obj\Debug\net8.0\Proyecto 3.genruntimeconfig.cache
+C:\Users\cerme\OneDrive\Documents\Desktop\Proyecto 3 Progra\Proyecto 3\obj\Debug\net8.0\ref\Proyecto 3.dll
